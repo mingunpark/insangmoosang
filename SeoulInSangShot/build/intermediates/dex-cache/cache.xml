@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MG_PARK\Downloads\Beom-master\Beom-master\SeoulInSangShot\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ae6ac80cb5689691eacc8a76f55c9290309515b4">
+        <dex dex="C:\Users\MG_PARK\Downloads\Beom-master\Beom-master\SeoulInSangShot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c19f6d051d3cf5863dd7518f820d274813e09a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MG_PARK\Downloads\Beom-master\Beom-master\SeoulInSangShot\app\libs\simple-side-drawer2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5c03f3a39e0eb9ba2f74681d63093341ca9f3e55">
+        <dex dex="C:\Users\MG_PARK\Downloads\Beom-master\Beom-master\SeoulInSangShot\app\build\intermediates\transforms\dex\debug\folders\1000\2\simple-side-drawer2_aa00ba7edd5cb234f6d8756df46e7caca9866381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MG_PARK\Downloads\Beom-master\Beom-master\SeoulInSangShot\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\MG_PARK\Downloads\Beom-master\Beom-master\SeoulInSangShot\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9be8795f99acaa580ea70455d3abc8006d114411\classes.dex" />
+    </item>
+
+</items>
